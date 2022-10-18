@@ -17,6 +17,8 @@ body{
 }
 
 .intro {
-   margin: auto;
+   margin-left: auto;
+   margin-right: auto;
     width: 30%;
+    display: block;
 }
